@@ -12,6 +12,7 @@ pytz
 scikit-learn
 scipy
 six
+sklearn
 threadpoolctl
 Werkzeug
 gunicorn
